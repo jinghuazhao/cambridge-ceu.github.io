@@ -13,7 +13,7 @@ widget1:
   text: 'A quick overview of all your posts.'
 widget2:
   title: "Why use this theme?"
-  url: 'https://jinghuazhao.github.io/pages.github.io/info/'
+  url: 'https://jinghuazhao.github.io/pages.github.io/about/'
   text: ' 1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 #
 # Use the call for action to show a button on the frontpage
