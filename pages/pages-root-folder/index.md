@@ -8,13 +8,13 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "Posts"
   url: 'https://jinghuazhao.github.io/pages.github.io/posts/'
-  text: 'A quick overview of all your posts.'
+  text: 'A quick overview of all posts.'
 widget2:
-  title: "Why use this theme?"
+  title: "About"
   url: 'https://jinghuazhao.github.io/pages.github.io/about/'
-  text: ' 1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: 'Tecnical information'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -28,10 +28,10 @@ widget2:
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-callforaction:
-  url: https://github.com/cambridge-ceu
-  text: Pose issues and make suggestions ›
-  style: alert
+#callforaction:
+#  url: https://github.com/cambridge-ceu
+#  text: Pose issues and make suggestions ›
+#  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
