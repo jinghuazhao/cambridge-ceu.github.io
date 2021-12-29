@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
+subheadline: "GitHub"
 teaser: "Information"
 permalink: "/about/"
-header:
-    image_fullwidth: "header_drop.jpg"
 ---
 
 This repository contains software/documents created at the CEU. A full list of these is available from [https://github.com/cambridge-ceu](https://github.com/cambridge-ceu) or the GitHub menu button.
