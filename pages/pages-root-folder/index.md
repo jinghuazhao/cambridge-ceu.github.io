@@ -9,11 +9,11 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
-  url: 'http://jinghuazhao.github.io/pages.github.io/blog/'
+  url: 'https://jinghuazhao.github.io/pages.github.io/blog/'
   text: 'A quick overview of all your posts.'
 widget2:
   title: "Why use this theme?"
-  url: 'http://jinghuazhao.github.io/pages.github.io/info/'
+  url: 'https://jinghuazhao.github.io/pages.github.io/info/'
   text: ' 1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 #
 # Use the call for action to show a button on the frontpage
