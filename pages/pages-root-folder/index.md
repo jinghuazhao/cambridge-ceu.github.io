@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: curtsy-alice-alice-in-wonderland-disney.gif
 widget1:
   title: "Posts"
   url: 'https://jinghuazhao.github.io/pages.github.io/posts/'
