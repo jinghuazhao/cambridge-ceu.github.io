@@ -7,19 +7,19 @@
 layout: frontpage
 widget1:
   title: "Internal repositories"
-  url: 'https://jinghuazhao.github.io/pages.github.io/internal/'
+  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/internal/'
   text: 'Information most approprite for university-wide use.'
 widget2:
   title: "Public repositories"
-  url: 'https://jinghuazhao.github.io/pages.github.io/public/'
+  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/public/'
   text: 'Developed/forked repositories for public use.'
 widget3:
   title: "About"
-  url: 'https://jinghuazhao.github.io/pages.github.io/about/'
+  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/about/'
   text: 'Tecnical information'
 widget4:
   title: "Posts"
-  url: 'https://jinghuazhao.github.io/pages.github.io/posts/'
+  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/posts/'
   text: 'A quick overview of all posts.'
 #
 # Use the call for action to show a button on the frontpage
@@ -46,7 +46,7 @@ permalink: /index.html
 homepage: true
 ---
 
-![](https://jinghuazhao.github.io/pages.github.io/images/curtsy-alice-alice-in-wonderland-disney.gif)
+![](https://jinghuazhao.github.io/cambridge-ceu.github.io/images/curtsy-alice-alice-in-wonderland-disney.gif)
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

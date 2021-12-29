@@ -1,3 +1,3 @@
-## pages.github.io
+## cambridge-ceu.github.io
 
-This is a test.
+This uses an alternative theme at cambridge-ceu.
