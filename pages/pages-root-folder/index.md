@@ -10,6 +10,7 @@ header:
 widget1:
   title: "Blog & Portfolio"
   url: 'https://jinghuazhao.github.io/pages.github.io/posts/'
+  image: widget-1-302x182.jpg
   text: 'A quick overview of all your posts.'
 widget2:
   title: "Why use this theme?"
