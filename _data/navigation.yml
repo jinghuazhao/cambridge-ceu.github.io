@@ -1,18 +1,18 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Documentation
-  url: "/documentation/"
+- title: Pages
+  url: "/pages/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "internal"
+    url: "/internal/"
+  - title: "Public"
+    url: "/public/"
 
-- title: Blog
-  url: "/blog/"
+- title: Posts
+  url: "/posts/"
   side: left
   dropdown:
   - title: "Blog Archive"

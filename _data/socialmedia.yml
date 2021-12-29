@@ -1,22 +1,17 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/cambridge-ceu
   class: icon-github
-  title: Code und mehr...
+  title: ""
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+#- name: YouTube
+#  url: http://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: ""
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/CAMBRIDGE_CEU
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
-
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+  title: ""
 
 # - name: Facebook
 #   url: http://www.facebook.com/
