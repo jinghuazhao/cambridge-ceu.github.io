@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Internal and public repositories"
 subheadline: "GitHub"
-permalink: "/cambridge-ceu/"
+permalink: "/pages/"
 ---
 
 ## Internal repositories
