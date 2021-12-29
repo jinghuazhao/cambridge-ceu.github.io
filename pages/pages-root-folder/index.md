@@ -5,24 +5,22 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: curtsy-alice-alice-in-wonderland-disney.gif
 widget1:
-  title: "Posts"
-  url: 'https://jinghuazhao.github.io/pages.github.io/posts/'
-  text: 'A quick overview of all posts.'
-widget2:
   title: "Internal"
   url: 'https://jinghuazhao.github.io/pages.github.io/internal/'
   text: 'Information most approprite for university-wide use..'
-widget3:
+widget2:
   title: "Public"
   url: 'https://jinghuazhao.github.io/pages.github.io/public/'
   text: 'Developed/forked repositories for public use.'
-widget4:
+widget3:
   title: "About"
   url: 'https://jinghuazhao.github.io/pages.github.io/about/'
   text: 'Tecnical information'
+widget4:
+  title: "Posts"
+  url: 'https://jinghuazhao.github.io/pages.github.io/posts/'
+  text: 'A quick overview of all posts.'
 #
 # Use the call for action to show a button on the frontpage
 #
