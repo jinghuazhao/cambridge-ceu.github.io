@@ -8,6 +8,7 @@ header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/getting-started/"
 ---
+
 1. Open `_config.yml` and work it through, it's well documented.
 1. Add your own `logo.png` to `/assets/img/`.
 1. Add your own social media links and open `_data/socialmedia.yml`.
@@ -21,5 +22,4 @@ permalink           : "/getting-started/"
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
 
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+[1]: {{ site.url }}{{ site.baseurl }}/documentation/
