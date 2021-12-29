@@ -46,7 +46,7 @@ permalink: /index.html
 homepage: true
 ---
 
-![](https://jinghuazhao.github.io/cambridge-ceu.github.io/images/curtsy-alice-alice-in-wonderland-disney.gif)
+![](https://jinghuazhao.github.io/cambridge-ceu.github.io/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
