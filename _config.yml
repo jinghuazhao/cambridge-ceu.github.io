@@ -38,7 +38,7 @@ improve_content: https://github.com/jinghuazhao/cambridge-ceu.github.io/edit/gh-
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/images'
+urlimg: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/assets/images'
 
 
 # Logo size is 600x80 pixels
