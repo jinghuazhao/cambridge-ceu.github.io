@@ -1,7 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use"
-teaser: "The documentation is a work in progress..."
+title: "Internal and public repositories"
+subheadline: "GitHub"
 permalink: "/pages/"
 ---

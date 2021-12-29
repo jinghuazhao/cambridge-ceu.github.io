@@ -13,7 +13,7 @@ widget1:
   text: 'A quick overview of all posts.'
 widget2:
   title: "Internal"
-  url: 'https://jinghuazhao.github.io/pages.github.io/intenval/'
+  url: 'https://jinghuazhao.github.io/pages.github.io/internal/'
   text: 'Information most approprite for university-wide use..'
 widget3:
   title: "Public"
@@ -48,7 +48,7 @@ permalink: /index.html
 homepage: true
 ---
 
-![](curtsy-alice-alice-in-wonderland-disney.gif)
+![](https://jinghuazhao.github.io/pages.github.io/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
