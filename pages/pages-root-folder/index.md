@@ -6,11 +6,11 @@
 #
 layout: frontpage
 widget1:
-  title: "Internal"
+  title: "Internal repositories"
   url: 'https://jinghuazhao.github.io/pages.github.io/internal/'
   text: 'Information most approprite for university-wide use.'
 widget2:
-  title: "Public"
+  title: "Public repositories"
   url: 'https://jinghuazhao.github.io/pages.github.io/public/'
   text: 'Developed/forked repositories for public use.'
 widget3:
