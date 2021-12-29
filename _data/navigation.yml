@@ -15,7 +15,7 @@
   url: "/posts/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Post Archive"
     url: "/posts/archive/"
 
 - title: "Search"
