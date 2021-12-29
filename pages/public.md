@@ -1,7 +1,9 @@
 ---
-permalink: /public
 layout: page
-title: Repositories
+title: "Repositories"
+subheadline: "Developed/forked repositories"
+teaser: "Again most are generic."
+permalink: "/public/"
 ---
 
 * cardiometabolic_prs_plasma_proteome [![](./assets/images/github.svg)](https://github.com/cambridge-ceu/cardiometabolic_prs_plasma_proteome)

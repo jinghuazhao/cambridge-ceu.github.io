@@ -1,7 +1,9 @@
 ---
-permalink: /internal
 layout: page
-title: Information
+title: "Information"
+subheadline: "Internal information"
+teaser: "Most information is also generic."
+permalink: "/internal/"
 ---
 
 * csd3, [https://cambridge-ceu.github.io/csd3/](https://cambridge-ceu.github.io/csd3/) [![](./assets/images/github.svg)](https://github.com/cambridge-ceu/csd3)
