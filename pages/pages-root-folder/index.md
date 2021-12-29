@@ -8,7 +8,7 @@ layout: frontpage
 widget1:
   title: "Internal"
   url: 'https://jinghuazhao.github.io/pages.github.io/internal/'
-  text: 'Information most approprite for university-wide use..'
+  text: 'Information most approprite for university-wide use.'
 widget2:
   title: "Public"
   url: 'https://jinghuazhao.github.io/pages.github.io/public/'
