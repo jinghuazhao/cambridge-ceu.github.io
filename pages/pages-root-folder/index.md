@@ -12,6 +12,14 @@ widget1:
   url: 'https://jinghuazhao.github.io/pages.github.io/posts/'
   text: 'A quick overview of all posts.'
 widget2:
+  title: "Internal"
+  url: 'https://jinghuazhao.github.io/pages.github.io/intenval/'
+  text: 'Information most approprite for university-wide use..'
+widget3:
+  title: "Public"
+  url: 'https://jinghuazhao.github.io/pages.github.io/public/'
+  text: 'Developed/forked repositories for public use.'
+widget4:
   title: "About"
   url: 'https://jinghuazhao.github.io/pages.github.io/about/'
   text: 'Tecnical information'
