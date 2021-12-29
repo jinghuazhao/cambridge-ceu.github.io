@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Information"
-subheadline: "Internal information"
-teaser: "Most information is also generic."
+subheadline: ""
+teaser: "Some are appropriate internal use but most information is also generic."
 permalink: "/internal/"
 ---
 

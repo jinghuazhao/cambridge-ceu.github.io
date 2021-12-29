@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Repositories"
-subheadline: "Developed/forked repositories"
-teaser: "Again most are generic."
+subheadline: ""
+teaser: ""
 permalink: "/public/"
 ---
 
