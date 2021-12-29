@@ -10,7 +10,6 @@ header:
 widget1:
   title: "Blog & Portfolio"
   url: 'https://jinghuazhao.github.io/pages.github.io/posts/'
-  image: widget-1-302x182.jpg
   text: 'A quick overview of all your posts.'
 widget2:
   title: "Why use this theme?"
@@ -25,6 +24,15 @@ widget2:
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
+#
+# This is a nasty hack to make the navigation highlight
+# this page as active in the topbar navigation
+#
+callforaction:
+  url: https://github.com/cambridge-ceu
+  text: Pose issues and make suggestions ›
+  style: alert
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
