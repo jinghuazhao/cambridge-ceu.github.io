@@ -3,6 +3,8 @@ layout: page-fullwidth
 title: "Internal and public repositories"
 subheadline: "GitHub"
 permalink: "/pages/"
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 ## Internal repositories
