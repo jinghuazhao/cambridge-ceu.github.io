@@ -15,11 +15,10 @@ header:
    - url:  [https://jinghuazhao.github.io/cambridge-ceu.github.io/public/](https://jinghuazhao.github.io/cambridge-ceu.github.io/public/)
    - text: Developed/forked repositories for public use.
 
-## About
-   - url:  [https://jinghuazhao.github.io/cambridge-ceu.github.io/about/](https://jinghuazhao.github.io/cambridge-ceu.github.io/about/)
-   - text: Tecnical information
-
 ## Posts
    - url:  [https://jinghuazhao.github.io/cambridge-ceu.github.io/blog/](https://jinghuazhao.github.io/cambridge-ceu.github.io/blog/)
    - text: 'A quick overview of all posts.'
 
+## About
+   - url:  [https://jinghuazhao.github.io/cambridge-ceu.github.io/about/](https://jinghuazhao.github.io/cambridge-ceu.github.io/about/)
+   - text: Tecnical information
