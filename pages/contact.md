@@ -9,13 +9,16 @@ permalink           : "/contact/"
 
 ## Postal address
 
+> Cardiovascular Epidemiology Unit
 > Department of Public Health & Primary Care
 > University of Cambridge
 > Strangeways Research Laboratory
 > Wort’s Causeway
 > Cambridge, CB1 8RN, UK
 
-as in [https://www.phpc.cam.ac.uk/ceu/erfc/contact-us/](https://www.phpc.cam.ac.uk/ceu/erfc/contact-us/).
+See also [https://www.phpc.cam.ac.uk/ceu/erfc/contact-us/](https://www.phpc.cam.ac.uk/ceu/erfc/contact-us/).
+
+---
 
 ## Recommended contact form
 
