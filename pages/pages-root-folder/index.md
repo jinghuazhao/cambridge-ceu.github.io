@@ -14,9 +14,9 @@ widget2:
   url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/public/'
   text: 'Developed/forked repositories for public use.'
 widget3:
-  title: "Posts"
-  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/posts/'
-  text: 'A quick overview of all posts.'
+  title: "Blog"
+  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/blog/'
+  text: 'A quick overview of all blog posts.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -44,7 +44,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-![](https://jinghuazhao.github.io/cambridge-ceu.github.io/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
+![]({{ site.urlimg }}curtsy-alice-alice-in-wonderland-disney.gif)
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

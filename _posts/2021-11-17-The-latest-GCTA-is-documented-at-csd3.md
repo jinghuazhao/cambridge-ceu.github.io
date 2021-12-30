@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: The latest GCTA is documented at csd3
 date: 2021-11-17 GMT 11:06:29 +668376687
 ---

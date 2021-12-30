@@ -1,7 +1,7 @@
 ---
 title: gsl documentation is updated
 date: 2021-09-22
-layout: post
+layout: page
 ---
 
 This extends those with R/knn

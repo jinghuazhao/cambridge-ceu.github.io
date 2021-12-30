@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Cambridge-Baker Joint Symposium
 date: 2021-09-27 BST 19:42:59 +372426134
 ---

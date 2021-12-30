@@ -1,7 +1,7 @@
 ---
 title: 2020 JIF is available
 date: 2021-07-02
-layout: post
+layout: page
 ---
 
 Information is again kindly provided by Dr Steven Bell; see CEU-journal-club for details.

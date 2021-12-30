@@ -1,7 +1,7 @@
 ---
 title: ldsc is available from csd3
 date: 2021-07-20
-layout: post
+layout: page
 ---
 
 LDSC is the LD score regression software

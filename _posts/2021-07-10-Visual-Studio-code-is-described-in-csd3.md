@@ -1,7 +1,7 @@
 ---
 title: Visual Studio code is described in csd3
 date: 2021-07-10
-layout: post
+layout: page
 ---
 
 See the Visual Studio code section in csd3; this should greatly simplify the procedure to Jupyter Notebooks

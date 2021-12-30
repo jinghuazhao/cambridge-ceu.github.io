@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Ensembl-VEP 104 installation is documented at csd3
 date: 2021-10-15 BST 09:16:27 +973578775
 ---

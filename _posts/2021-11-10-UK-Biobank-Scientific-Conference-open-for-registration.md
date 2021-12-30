@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: UK Biobank Scientific Conference open for registration
 date: 2021-11-10 GMT 10:46:35 +174737822
 ---

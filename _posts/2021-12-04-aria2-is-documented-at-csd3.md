@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: aria2 is documented at csd3
 date: 2021-12-04 GMT 21:54:19 +224370375
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: PLINK installation is documented at csd3
 date: 2021-11-20 GMT 22:30:18 +816885842
 ---

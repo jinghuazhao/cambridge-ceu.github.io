@@ -1,7 +1,7 @@
 ---
 title:  "genebass is described with hail"
 date:   2021-06-29
-layout: post
+layout: page
 ---
 
 See `hail` entry from the csd3 repository.

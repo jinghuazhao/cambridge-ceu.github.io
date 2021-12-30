@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: GitHub Education programme
 date: 2021-12-27 GMT 10:19:23 +025631739
 ---

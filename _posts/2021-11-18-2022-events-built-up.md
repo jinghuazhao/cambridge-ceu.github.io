@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 2022 events built up
 date: 2021-11-18 GMT 20:45:34 +649440011
 ---
