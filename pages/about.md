@@ -16,7 +16,7 @@ The topics cover but are not limited to multi-omics analysis.
 
 ## Technical notes
 
-Our beloved ![](./assets/images/github.svg) is an offspring of the great figure at [https://tinyurl.com/temf27hm](https://tinyurl.com/temf27hm).
+Our beloved ![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg) is an offspring of the great figure at [https://tinyurl.com/temf27hm](https://tinyurl.com/temf27hm).
 
 This is the base [jekyll][jekyll-organization] theme as documented at [jekyllrb.com][jk], [Github Pages][gh-site] and [official docs][gh].
 
