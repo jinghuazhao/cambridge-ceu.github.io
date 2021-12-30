@@ -2,6 +2,8 @@
 title: Mendelian Randomization Conference 2021, July 7-9
 date: 2021-07-06
 layout: page
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 See CEU-scientific meeting for link to registration

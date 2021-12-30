@@ -2,6 +2,8 @@
 title:  "EWAS-fusion is forked into cambridge-ceu"
 date:   2021-06-27
 layout: page
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 See `Hostings` tab.

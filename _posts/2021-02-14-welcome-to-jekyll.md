@@ -2,6 +2,8 @@
 title:  "Welcome to cambridge-ceu!"
 date:   2021-02-14
 layout: page
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 A post is a file `YYYY-MM-DD-name-of-post.ext` in `_posts` with the required front matter.

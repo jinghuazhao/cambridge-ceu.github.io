@@ -2,6 +2,8 @@
 title: 2020 JIF is available
 date: 2021-07-02
 layout: page
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 Information is again kindly provided by Dr Steven Bell; see CEU-journal-club for details.

@@ -2,6 +2,8 @@
 layout: page
 title: GitHub Education programme
 date: 2021-12-27 GMT 10:19:23 +025631739
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 See [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)

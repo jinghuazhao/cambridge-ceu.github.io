@@ -2,6 +2,8 @@
 layout: page
 title: Biostatistics for chronic diseases
 date: 2021-09-28 BST 20:12:20 +030179999
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 See [https://cambridge-ceu.github.io/CEU-scientific-meetings/talks/](https://cambridge-ceu.github.io/CEU-scientific-meetings/talks/)

@@ -2,6 +2,8 @@
 title: gsl documentation is updated
 date: 2021-09-22
 layout: page
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 This extends those with R/knn

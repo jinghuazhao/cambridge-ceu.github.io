@@ -2,6 +2,8 @@
 layout: page
 title: UK Biobank Scientific Conference open for registration
 date: 2021-11-10 GMT 10:46:35 +174737822
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 [https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/scientific-conference-2021](https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/scientific-conference-2021)
