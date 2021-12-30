@@ -1,10 +1,10 @@
 - title: Home
   url: "/"
-  side: left
+  side: right
 
 - title: Pages
   url: "/pages/"
-  side: left
+  side: right
   dropdown:
   - title: "internal"
     url: "/internal/"
@@ -13,7 +13,7 @@
 
 - title: Posts
   url: "/posts/"
-  side: left
+  side: right
   dropdown:
   - title: "Post Archive"
     url: "/posts/archive/"
