@@ -4,6 +4,8 @@ title: "Information"
 subheadline: ""
 teaser: "Some are appropriate internal use but most information is also generic."
 permalink: "/internal/"
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 * csd3, [https://cambridge-ceu.github.io/csd3/](https://cambridge-ceu.github.io/csd3/) [![](github.svg)](https://github.com/cambridge-ceu/csd3)

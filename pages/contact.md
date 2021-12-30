@@ -5,6 +5,8 @@ meta_title          : ""
 subheadline         : ""
 teaser              : ""
 permalink           : "/contact/"
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 ## Postal address

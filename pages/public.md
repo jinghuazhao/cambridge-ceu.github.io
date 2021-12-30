@@ -4,6 +4,8 @@ title: "Repositories"
 subheadline: ""
 teaser: ""
 permalink: "/public/"
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 * cardiometabolic_prs_plasma_proteome [![](https://jinghuazhao.github.io/cambridge-ceu.github.io/assets/images/github.svg)](https://github.com/cambridge-ceu/cardiometabolic_prs_plasma_proteome)

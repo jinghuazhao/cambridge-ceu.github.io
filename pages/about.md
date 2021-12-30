@@ -4,6 +4,8 @@ title: "About"
 subheadline: "GitHub"
 teaser: ""
 permalink: "/about/"
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 This repository contains software/documents created at the CEU. A full list of these is available from [https://github.com/cambridge-ceu](https://github.com/cambridge-ceu) or the GitHub menu button.
