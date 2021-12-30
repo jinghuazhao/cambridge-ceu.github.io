@@ -40,6 +40,8 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+header:
+    image_fullwidth: "header-bus.jpg"
 ---
 
 ![](https://jinghuazhao.github.io/cambridge-ceu.github.io/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
