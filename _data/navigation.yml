@@ -11,12 +11,12 @@
   - title: "Public"
     url: "/public/"
 
-- title: Posts
-  url: "/posts/"
+- title: Blog
+  url: "/blog/"
   side: right
   dropdown:
-  - title: "Post Archive"
-    url: "/posts/archive/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
