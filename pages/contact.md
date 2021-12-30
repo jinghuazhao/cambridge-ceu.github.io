@@ -7,7 +7,7 @@ teaser              : ""
 permalink           : "/contact/"
 ---
 
-## Contact information
+## Postal address
 
 > Department of Public Health & Primary Care
 > University of Cambridge
