@@ -14,10 +14,6 @@ widget2:
   url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/public/'
   text: 'Developed/forked repositories for public use.'
 widget3:
-  title: "About"
-  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/about/'
-  text: 'Tecnical information'
-widget4:
   title: "Posts"
   url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/posts/'
   text: 'A quick overview of all posts.'
