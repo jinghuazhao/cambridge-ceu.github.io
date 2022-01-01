@@ -24,6 +24,6 @@ header:
 
 ---
 
-## Recommended contact form
+## Contact form
 
 See [Wufoo](http://www.wufoo.com/)
