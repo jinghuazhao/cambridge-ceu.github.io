@@ -9,10 +9,6 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-## Web page
-
-[https://www.phpc.cam.ac.uk/ceu/](https://www.phpc.cam.ac.uk/ceu/).
-
 ## Postal address
 
 > Cardiovascular Epidemiology Unit
@@ -21,6 +17,10 @@ header:
 > Strangeways Research Laboratory
 > Wort’s Causeway
 > Cambridge, CB1 8RN, UK
+
+## Web page
+
+[https://www.phpc.cam.ac.uk/ceu/](https://www.phpc.cam.ac.uk/ceu/).
 
 ---
 
