@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Information"
+title: "Internal repositories"
 subheadline: ""
 teaser: "-- Some are written for internal use but most information is generic."
 permalink: "/internal/"

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Repositories"
-subheadline: "-- Developed/forked software"
-teaser: ""
+title: "Public repositories"
+subheadline: ""
+teaser: "-- Developed/forked software"
 permalink: "/public/"
 header:
     image_fullwidth: "header-bus.jpg"
