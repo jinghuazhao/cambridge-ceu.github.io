@@ -2,7 +2,7 @@
 layout: page
 title: "Internal repositories"
 subheadline: ""
-teaser: "-- These are written for internal use but most information is generic."
+teaser: "-- These are written for internal use but a lot of information is generic."
 permalink: "/internal/"
 header:
     image_fullwidth: "header-bus.jpg"
