@@ -2,7 +2,7 @@
 layout: page
 title: "Public repositories"
 subheadline: ""
-teaser: "-- Developed/hosted software"
+teaser: "-- Developed/hosted software for public use."
 permalink: "/public/"
 header:
     image_fullwidth: "header-bus.jpg"
