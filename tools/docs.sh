@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-bundle exec jekyll build
+jekyll build
 git add .
 git commit -m "pages"
 git push
