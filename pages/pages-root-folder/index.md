@@ -20,7 +20,7 @@ widget3:
 widget4:
   title: "GitHub"
   url: 'https://github.com/cambridge-ceu'
-  image: {{ site.url }}{{ site.baseurl }}/assets/images/github.svg
+  image: github.svg
   text: 'All GitHub repositories'
 # Use the call for action to show a button on the frontpage
 #
