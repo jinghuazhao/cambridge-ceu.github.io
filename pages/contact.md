@@ -1,6 +1,6 @@
 ---
 layout              : page
-title               : "Contact"
+title               : "Contact information"
 meta_title          : ""
 subheadline         : ""
 teaser              : ""
