@@ -25,6 +25,10 @@ widget5:
   title: "About"
   url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/about/'
   text: 'Technical information.'
+widget6:
+  title: "Contact"
+  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/contact/'
+  text: 'Contact.'
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
