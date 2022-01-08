@@ -26,6 +26,10 @@ widget5:
   url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/about/'
   text: 'Technical information.'
 widget6:
+  title: "Search"
+  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/search/'
+  text: 'Search.'
+widget7:
   title: "Contact"
   url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/contact/'
   text: 'Contact information.'
