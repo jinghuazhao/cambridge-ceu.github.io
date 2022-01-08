@@ -14,14 +14,14 @@ widget2:
   url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/public/'
   text: 'Developed/hosted software for public use.'
 widget3:
-  title: "Blog posts"
-  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/blog/'
-  text: 'A quick overview of all blog posts.'
-widget4:
   title: "GitHub"
   url: 'https://github.com/cambridge-ceu'
   image: github.svg
   text: 'All GitHub repositories'
+widget4:
+  title: "Blog posts"
+  url: 'https://jinghuazhao.github.io/cambridge-ceu.github.io/blog/'
+  text: 'A quick overview of all blog posts.'
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
