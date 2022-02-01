@@ -10,7 +10,7 @@ echo ${title_of_post}
 echo ${contents_of_post}
 echo ${name_of_post}
 
-cd docs/_posts
+cd _posts
 
 (
   echo ---
