@@ -18,7 +18,7 @@ cd _posts
   echo title:  "${title_of_post}"
   echo date:   `date "+%F %Z %T +%N"`
   echo header:
-  echo    image_fullwidth: "header-bus.jpg"
+  echo "   image_fullwidth: header-bus.jpg"
 
   echo ---
   echo
