@@ -14,5 +14,6 @@ header:
 * phenoscanner [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/phenoscanner)
 * pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/) [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLtools)
 * ProGem [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/ProGeM)
+* Sun-et-al-2021-protein-coding-variants-in-human-disease [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/Sun-et-al-2021-protein-coding-variants-in-human-disease)
 * The Book of Statistical Proofs, [https://statproofbook.github.io/](https://statproofbook.github.io/) [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/StatProofBook)
 * TwoSampleMR [https://mrcieu.github.io/TwoSampleMR/](https://mrcieu.github.io/TwoSampleMR/) [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/TwoSampleMR)
