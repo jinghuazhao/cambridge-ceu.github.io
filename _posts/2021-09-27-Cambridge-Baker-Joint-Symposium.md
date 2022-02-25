@@ -6,7 +6,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-See details from [https://cambridge-ceu.github.io/CEU-scientific-meetings/Cambridge-Baker-Joint-Symposium/](https://cambridge-ceu.github.io/CEU-scientific-meetings/Cambridge-Baker-Joint-Symposium/)
+### See details from [https://cambridge-ceu.github.io/CEU-scientific-meetings/Cambridge-Baker-Joint-Symposium/](https://cambridge-ceu.github.io/CEU-scientific-meetings/Cambridge-Baker-Joint-Symposium/)
 
 <!--more-->
 

@@ -6,7 +6,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-See [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
+### See [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
 
 <!--more-->
 

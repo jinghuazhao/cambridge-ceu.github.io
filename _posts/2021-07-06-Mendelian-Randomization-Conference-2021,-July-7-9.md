@@ -6,7 +6,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-See CEU-scientific meeting for link to registration
+### See CEU-scientific meeting for link to registration
 
 <!--more-->
 

@@ -6,7 +6,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-See the Visual Studio code section in csd3; this should greatly simplify the procedure to Jupyter Notebooks
+### See the Visual Studio code section in csd3; this should greatly simplify the procedure to Jupyter Notebooks
 
 <!--more-->
 

@@ -6,7 +6,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-See [https://cambridge-ceu.github.io/csd3/applications/gcta.html](https://cambridge-ceu.github.io/csd3/applications/gcta.html)
+### See [https://cambridge-ceu.github.io/csd3/applications/gcta.html](https://cambridge-ceu.github.io/csd3/applications/gcta.html)
 
 <!--more-->
 

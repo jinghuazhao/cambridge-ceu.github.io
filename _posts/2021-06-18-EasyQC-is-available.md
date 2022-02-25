@@ -6,7 +6,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-See/search `EasyQC` from csd3.
+### See/search `EasyQC` from csd3.
 
 <!--more-->
 
@@ -14,4 +14,4 @@ See/search `EasyQC` from csd3.
 
 ## NOTES
 
-See the csd3 entry.
+### See the csd3 entry.
