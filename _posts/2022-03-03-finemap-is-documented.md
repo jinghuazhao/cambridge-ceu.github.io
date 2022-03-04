@@ -1,6 +1,6 @@
 ---
 layout: page
-title: finamap is documented
+title: finemap is documented
 date: 2022-03-03 GMT 14:50:12 +835040238
 header:
    image_fullwidth: header-bus.jpg
