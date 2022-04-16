@@ -1,7 +1,7 @@
 ---
 layout: page
 title: snakemake documentation updated
-date: 2022-03-23 GMT 21:07:01 +761598118
+date: 2022-03-23 GMT 21:06:26 +006372254
 header:
    image_fullwidth: header-bus.jpg
 ---
