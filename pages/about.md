@@ -28,8 +28,11 @@ The source code for Jekyll is at GitHub: [jekyll / jekyll](https://github.com/je
 
 The source code for minima is at GitHub: [jekyll / minima][minima], e.g., [gh-pages-minima-starter](https://github.com/jsanz/gh-pages-minima-starter) and [minima-reboot](https://github.com/aterenin/minima-reboot/).
 
+The YouTube icon is thankfully from [https://icons8.com/icons/set/youtube][icons8].
+
 [gh]: https://help.github.com/en/github/working-with-github-pages
 [gh-site]: https://pages.github.com
+[icons8]: https://icons8.com/icons/set/youtube
 [jekyll-organization]: https://github.com/jekyll
 [jk]: https://jekyllrb.com/
 [minima]: https://github.com/jekyll/minima/tree/2.5-stable

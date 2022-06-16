@@ -49,7 +49,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-
+    - jekyll-youtube
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -182,6 +182,7 @@ msapplication_tilecolor              : '#fabb00'
 
 socialmedia:
     twitter   : CAMBRIDGE_CEU
+    youtube   : page.https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ
 
 
 #        ____  _
