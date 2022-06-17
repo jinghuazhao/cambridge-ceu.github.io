@@ -25,8 +25,8 @@ author: jinghuazhao
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
+baseurl: '/cambridge-ceu.github.io/'
 url: 'https://jinghuazhao.github.io'
-baseurl: '/cambridge-ceu.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
