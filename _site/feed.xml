@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jinghuazhao.github.io/cambridge-ceu.github.io//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://jinghuazhao.github.io/cambridge-ceu.github.io//assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>cambridge-ceu</title>
+		<description>GitHub repositories from Cardiovascular Epidemilogy Unit at Cambridge University.</description>
+		<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//</link>
+		<atom:link href="https://jinghuazhao.github.io/cambridge-ceu.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>DNAnexus is documented</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//DNAnexus-is-documented/</link>
+				<pubDate>Tue, 21 Jun 2022 15:49:17 +0100</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationsdnanexushtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/DNAnexus.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/DNAnexus.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;This is to be refined.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//DNAnexus-is-documented/</guid>
+			</item>
+		
+			<item>
+				<title>PSPP 1.6.0 is documented</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//PSPP-1.6.0-is-documented/</link>
+				<pubDate>Thu, 16 Jun 2022 10:12:04 +0100</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationspspphtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/pspp.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/pspp.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;This is an update to 1.2.0/1.4.1&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//PSPP-1.6.0-is-documented/</guid>
+			</item>
+		
+			<item>
+				<title>CookHLA documented in csd3</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//CookHLA-documented-in-csd3/</link>
+				<pubDate>Thu, 28 Apr 2022 18:53:39 +0100</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationscookhlahtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/CookHLA.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/CookHLA.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;It also covers SNP2HLA&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//CookHLA-documented-in-csd3/</guid>
+			</item>
+		
+			<item>
+				<title>The latest METAL is described</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//The-latest-METAL-is-described/</link>
+				<pubDate>Thu, 14 Apr 2022 21:19:23 +0100</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationsmetalhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/METAL.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/METAL.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;It also contains one way of modification on the output.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//The-latest-METAL-is-described/</guid>
+			</item>
+		
+			<item>
+				<title>circos is documented at csd3</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//circos-is-documented-at-csd3/</link>
+				<pubDate>Thu, 07 Apr 2022 21:22:54 +0100</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationscircoshtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/circos.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/circos.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;Finally moved from &lt;a href=&quot;https://jinghuazhao.github.io/Computational-Statistics/LANGUAGES/#perl&quot;&gt;Computational Statistics&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//circos-is-documented-at-csd3/</guid>
+			</item>
+		
+			<item>
+				<title>METRO is documented</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//METRO-is-documented/</link>
+				<pubDate>Fri, 25 Mar 2022 20:07:34 +0000</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3rmetrohtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/R/METRO.html&quot;&gt;https://cambridge-ceu.github.io/csd3/R/METRO.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;Multi-ancEstry TRanscriptOme-wide analysis (METRO)&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//METRO-is-documented/</guid>
+			</item>
+		
+			<item>
+				<title>snakemake documentation updated</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//snakemake-documentation-updated/</link>
+				<pubDate>Wed, 23 Mar 2022 21:06:26 +0000</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationssnakemakehtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/snakemake.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/snakemake.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;hello world/HGI MR examples are given&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//snakemake-documentation-updated/</guid>
+			</item>
+		
+			<item>
+				<title>SPACox is documented</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//SPACox-is-documented/</link>
+				<pubDate>Fri, 11 Mar 2022 10:12:27 +0000</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3rspacoxhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/R/SPACox.html&quot;&gt;https://cambridge-ceu.github.io/csd3/R/SPACox.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;Links to SurvivalGWAS_SV and snpnet are also indicated.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//SPACox-is-documented/</guid>
+			</item>
+		
+			<item>
+				<title>finemap is documented</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//finemap-is-documented/</link>
+				<pubDate>Thu, 03 Mar 2022 14:50:12 +0000</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationsfinemaphtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/finemap.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/finemap.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;Adapted from the author’s website which includes many updates&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//finemap-is-documented/</guid>
+			</item>
+		
+			<item>
+				<title>SurvivalGWAS_SV in documented</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//SurvivalGWAS_SV-in-documented/</link>
+				<pubDate>Wed, 02 Mar 2022 20:53:44 +0000</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationssurvivalgwas_svhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/SurvivalGWAS_SV.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/SurvivalGWAS_SV.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;This is one of the software for survival analysis&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//SurvivalGWAS_SV-in-documented/</guid>
+			</item>
+		
+	</channel>
+</rss>
