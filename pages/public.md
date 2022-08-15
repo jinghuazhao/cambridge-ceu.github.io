@@ -2,12 +2,13 @@
 layout: page
 title: "Public repositories"
 subheadline: ""
-teaser: "-- Developed/hosted software for public use."
+teaser: "..."
 permalink: "/public/"
 header:
     image_fullwidth: "header-bus.jpg"
 ---
 
+Developed/hosted software for public use.
 * [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/cardiometabolic_prs_plasma_proteome) cardiometabolic_prs_plasma_proteome
 * [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/EWAS-fusion)  EWAS-fusion [https://cambridge-ceu.github.io/EWAS-fusion/](https://cambridge-ceu.github.io/EWAS-fusion/)
 * [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/GreenAlgorithms4HPC) GreenAlgorithms4HPC [https://www.green-algorithms.org/](https://www.green-algorithms.org/)
