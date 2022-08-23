@@ -18,6 +18,10 @@ header:
 > Wort’s Causeway,
 > Cambridge, CB1 8RN, UK
 
+## The HLRI
+
+Move to [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) commences at the week beginning from 19 September 2022.
+
 ## Web page
 
 [https://www.phpc.cam.ac.uk/ceu/](https://www.phpc.cam.ac.uk/ceu/).
