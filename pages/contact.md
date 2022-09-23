@@ -33,7 +33,7 @@ Papworth Road
 Cambridge Biomedical Campus
 Cambridge
 CB2 0BB
-Email: xx@medschl.cam.ac.uk / Website: https://www.phpc.cam.ac.uk/ceu/
+Email: xx@medschl.cam.ac.uk
 ```
 
 ## Web page
