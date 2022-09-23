@@ -22,6 +22,16 @@ header:
 
 Move to [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) commences at the week beginning from 19 September 2022.
 
+> Cardiovascular Epidemiology Unit
+> Department of Public Health and Primary Care
+> The Heart & Lung Research Institute
+> University of Cambridge
+> Papworth Road
+> Cambridge Biomedical Campus
+> Cambridge
+> CB2 0BB
+> Email: xx@medschl.cam.ac.uk / Website: https://www.phpc.cam.ac.uk/ceu/
+
 ## Web page
 
 [https://www.phpc.cam.ac.uk/ceu/](https://www.phpc.cam.ac.uk/ceu/).
