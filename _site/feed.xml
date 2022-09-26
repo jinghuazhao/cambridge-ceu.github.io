@@ -9,6 +9,23 @@
 		<atom:link href="https://jinghuazhao.github.io/cambridge-ceu.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>snipar is added to csd3</title>
+				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//snipar-is-added-to-csd3/</link>
+				<pubDate>Mon, 26 Sep 2022 09:56:24 +0100</pubDate>
+				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationssniparhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/snipar.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/snipar.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;This follows a recent Nat Genet publication outlining methods for Mendelian Randomisation analysis involving family data.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//snipar-is-added-to-csd3/</guid>
+			</item>
+		
+			<item>
 				<title>DNAnexus is documented</title>
 				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//DNAnexus-is-documented/</link>
 				<pubDate>Tue, 21 Jun 2022 15:49:17 +0100</pubDate>
@@ -159,23 +176,6 @@
 &lt;p&gt;Adapted from the author’s website which includes many updates&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//finemap-is-documented/</guid>
-			</item>
-		
-			<item>
-				<title>SurvivalGWAS_SV in documented</title>
-				<link>https://jinghuazhao.github.io/cambridge-ceu.github.io//SurvivalGWAS_SV-in-documented/</link>
-				<pubDate>Wed, 02 Mar 2022 20:53:44 +0000</pubDate>
-				<description>&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationssurvivalgwas_svhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/SurvivalGWAS_SV.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/SurvivalGWAS_SV.html&lt;/a&gt;&lt;/h3&gt;
-
-&lt;!--more--&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
-
-&lt;p&gt;This is one of the software for survival analysis&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">https://jinghuazhao.github.io/cambridge-ceu.github.io//SurvivalGWAS_SV-in-documented/</guid>
 			</item>
 		
 	</channel>

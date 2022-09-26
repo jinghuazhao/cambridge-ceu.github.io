@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//</id>
 	<title>cambridge-ceu</title>
-	<updated>2022-09-24T17:32:29+01:00</updated>
+	<updated>2022-09-26T09:59:21+01:00</updated>
 
 	<subtitle>GitHub repositories from Cardiovascular Epidemilogy Unit at Cambridge University.</subtitle>
 
@@ -24,6 +24,40 @@
 
 	<generator uri="http://jekyllrb.com" version="3.9.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//snipar-is-added-to-csd3/</id>
+			<title>snipar is added to csd3</title>
+			<link href="https://jinghuazhao.github.io/cambridge-ceu.github.io//snipar-is-added-to-csd3/" rel="alternate" type="text/html" title="snipar is added to csd3" />
+			<updated>2022-09-26T09:56:24+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://jinghuazhao.github.io/cambridge-ceu.github.io//snipar-is-added-to-csd3/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationssniparhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/snipar.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/snipar.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;This follows a recent Nat Genet publication outlining methods for Mendelian Randomisation analysis involving family data.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-09-26T09:56:24+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//DNAnexus-is-documented/</id>
@@ -329,40 +363,6 @@
 			
 
 			<published>2022-03-03T14:50:12+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//SurvivalGWAS_SV-in-documented/</id>
-			<title>SurvivalGWAS_SV in documented</title>
-			<link href="https://jinghuazhao.github.io/cambridge-ceu.github.io//SurvivalGWAS_SV-in-documented/" rel="alternate" type="text/html" title="SurvivalGWAS_SV in documented" />
-			<updated>2022-03-02T20:53:44+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://jinghuazhao.github.io/cambridge-ceu.github.io//SurvivalGWAS_SV-in-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationssurvivalgwas_svhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/SurvivalGWAS_SV.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/SurvivalGWAS_SV.html&lt;/a&gt;&lt;/h3&gt;
-
-&lt;!--more--&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
-
-&lt;p&gt;This is one of the software for survival analysis&lt;/p&gt;
-</content>
-
-			
-			
-
-			<published>2022-03-02T20:53:44+00:00</published>
 		</entry>
 	
 </feed>
