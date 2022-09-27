@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//</id>
 	<title>cambridge-ceu</title>
-	<updated>2022-09-26T10:55:51+01:00</updated>
+	<updated>2022-09-27T14:03:49+01:00</updated>
 
 	<subtitle>GitHub repositories from Cardiovascular Epidemilogy Unit at Cambridge University.</subtitle>
 
@@ -24,6 +24,40 @@
 
 	<generator uri="http://jekyllrb.com" version="3.9.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//Alphapept-and-pyOpenMS-are-documented/</id>
+			<title>Alphapept and pyOpenMS are documented</title>
+			<link href="https://jinghuazhao.github.io/cambridge-ceu.github.io//Alphapept-and-pyOpenMS-are-documented/" rel="alternate" type="text/html" title="Alphapept and pyOpenMS are documented" />
+			<updated>2022-09-27T14:02:41+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://jinghuazhao.github.io/cambridge-ceu.github.io//Alphapept-and-pyOpenMS-are-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationspyopenmshtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/pyOpenMS.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;It is subject to further refinement.&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-09-27T14:02:41+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//snipar-is-added-to-csd3/</id>
@@ -329,40 +363,6 @@
 			
 
 			<published>2022-03-11T10:12:27+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//finemap-is-documented/</id>
-			<title>finemap is documented</title>
-			<link href="https://jinghuazhao.github.io/cambridge-ceu.github.io//finemap-is-documented/" rel="alternate" type="text/html" title="finemap is documented" />
-			<updated>2022-03-03T14:50:12+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://jinghuazhao.github.io/cambridge-ceu.github.io//finemap-is-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3applicationsfinemaphtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/applications/finemap.html&quot;&gt;https://cambridge-ceu.github.io/csd3/applications/finemap.html&lt;/a&gt;&lt;/h3&gt;
-
-&lt;!--more--&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
-
-&lt;p&gt;Adapted from the author’s website which includes many updates&lt;/p&gt;
-</content>
-
-			
-			
-
-			<published>2022-03-03T14:50:12+00:00</published>
 		</entry>
 	
 </feed>
