@@ -14,6 +14,7 @@ header:
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/EWAS-fusion)  EWAS-fusion [https://cambridge-ceu.github.io/EWAS-fusion/](https://cambridge-ceu.github.io/EWAS-fusion/)
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/GreenAlgorithms4HPC) GreenAlgorithms4HPC [https://www.green-algorithms.org/](https://www.green-algorithms.org/)
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/METAL) METAL [https://cambridge-ceu.github.io/METAL/](https://cambridge-ceu.github.io/METAL/)
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/MRC-Epid/MetabolomicsGWAS_INTERVAL_EPICNorfolk) MetabolomicsGWAS_INTERVAL_EPICNorfolk
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/miamiPlot) miamiPlot
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/phenoscanner) phenoscanner
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLtools) pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/)
