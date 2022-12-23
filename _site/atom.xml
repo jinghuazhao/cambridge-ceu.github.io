@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//</id>
 	<title>cambridge-ceu</title>
-	<updated>2022-12-18T16:25:17+00:00</updated>
+	<updated>2022-12-23T09:48:48+00:00</updated>
 
 	<subtitle>GitHub repositories from Cardiovascular Epidemilogy Unit at Cambridge University.</subtitle>
 
@@ -24,6 +24,40 @@
 
 	<generator uri="http://jekyllrb.com" version="3.9.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//ceuadmin-modules-are-piling-up/</id>
+			<title>ceuadmin modules are piling up</title>
+			<link href="https://jinghuazhao.github.io/cambridge-ceu.github.io//ceuadmin-modules-are-piling-up/" rel="alternate" type="text/html" title="ceuadmin modules are piling up" />
+			<updated>2022-12-23T09:45:58+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="https://jinghuazhao.github.io/cambridge-ceu.github.io//ceuadmin-modules-are-piling-up/">&lt;h3 id=&quot;details-are-available-fromhttpscambridge-ceugithubiocsd3systemsceuadminhtml&quot;&gt;Details are available from&lt;a href=&quot;https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html&quot;&gt;https://cambridge-ceu.github.io/csd3/systems/ceuadmin.html&lt;/a&gt;&lt;/h3&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
+
+&lt;p&gt;Notable examples are pspp, RStudio, snakemake, OpenMS and many others&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2022-12-23T09:45:58+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//Alphapept-and-pyOpenMS-are-documented/</id>
@@ -329,40 +363,6 @@
 			
 
 			<published>2022-03-23T21:06:26+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>https://jinghuazhao.github.io/cambridge-ceu.github.io//SPACox-is-documented/</id>
-			<title>SPACox is documented</title>
-			<link href="https://jinghuazhao.github.io/cambridge-ceu.github.io//SPACox-is-documented/" rel="alternate" type="text/html" title="SPACox is documented" />
-			<updated>2022-03-11T10:12:27+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="https://jinghuazhao.github.io/cambridge-ceu.github.io//SPACox-is-documented/">&lt;h3 id=&quot;see-httpscambridge-ceugithubiocsd3rspacoxhtml&quot;&gt;See &lt;a href=&quot;https://cambridge-ceu.github.io/csd3/R/SPACox.html&quot;&gt;https://cambridge-ceu.github.io/csd3/R/SPACox.html&lt;/a&gt;&lt;/h3&gt;
-
-&lt;!--more--&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;notes&quot;&gt;NOTES&lt;/h2&gt;
-
-&lt;p&gt;Links to SurvivalGWAS_SV and snpnet are also indicated.&lt;/p&gt;
-</content>
-
-			
-			
-
-			<published>2022-03-11T10:12:27+00:00</published>
 		</entry>
 	
 </feed>
