@@ -17,6 +17,7 @@ header:
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/MRC-Epid/MetabolomicsGWAS_INTERVAL_EPICNorfolk) MetabolomicsGWAS_INTERVAL_EPICNorfolk
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/miamiPlot) miamiPlot
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/phenoscanner) phenoscanner
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLdata) pQTLdata
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLtools) pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/)
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/ProGeM) ProGem
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/shaprs) ShaPRS
