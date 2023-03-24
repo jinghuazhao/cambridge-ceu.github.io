@@ -25,7 +25,7 @@ Move to [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) 
 ```
 Cardiovascular Epidemiology Unit
 Department of Public Health and Primary Care
-The Heart & Lung Research Institute
+Victor Phillip Dahdaleh Heart & Lung Research Institute
 University of Cambridge
 Papworth Road
 Cambridge Biomedical Campus
