@@ -20,7 +20,7 @@ Wort’s Causeway,
 Cambridge, CB1 8RN, UK
 ```
 
-Move to [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) commences at the week beginning from 19 September 2022.
+Move to [HLRI](https://www.hlri.cam.ac.uk/) commences at the week beginning from 19 September 2022.
 
 ```
 Cardiovascular Epidemiology Unit
@@ -34,9 +34,11 @@ CB2 0BB
 Email: xx@medschl.cam.ac.uk
 ```
 
-## Web page
+## Web pages
 
-[https://www.phpc.cam.ac.uk/ceu/](https://www.phpc.cam.ac.uk/ceu/).
+<https://www.phpc.cam.ac.uk/ceu/>
+
+<https://www.hlri.cam.ac.uk/>
 
 ---
 
