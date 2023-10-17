@@ -31,7 +31,7 @@ Papworth Road
 Cambridge Biomedical Campus
 Cambridge
 CB2 0BB
-Email: xx@medschl.cam.ac.uk
+Email: xx@cam.ac.uk
 ```
 
 ## Web pages
