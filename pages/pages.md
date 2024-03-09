@@ -7,7 +7,7 @@ header:
     image_fullwidth: "header-bus.jpg"
 ---
 
-# Blog
+## GitHub
    - url:  <https://github.com/cambridge-ceu/>
    - text: 'GitHub page.'
 
