@@ -21,7 +21,7 @@ header:
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/rkabacoff/datavis_support) Modern Data Visualization in R, <https://rkabacoff.github.io/datavis/index.html>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/PGScatalog/pgsc_calc) pgsc_calc, <https://pgsc-calc.readthedocs.io/en/latest/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/phenoscanner) phenoscanner
-: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLdata) pQTLdata
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLdata) pQTLdata, <https://jinghuazhao.github.io/pQTLdata/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLtools) pQTLtools, <https://jinghuazhao.github.io/pQTLtools/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/ProGeM) ProGem
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/shaprs) ShaPRS
