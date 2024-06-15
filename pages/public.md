@@ -29,3 +29,4 @@ header:
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/Sun-et-al-2021-protein-coding-variants-in-human-disease) Sun-et-al-2021-protein-coding-variants-in-human-disease
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/StatProofBook) The Book of Statistical Proofs, <https://statproofbook.github.io/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/TwoSampleMR) TwoSampleMR, <https://mrcieu.github.io/TwoSampleMR/>
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/amaas/stanford_dl_ex) UFLDL Tutorial, <http://ufldl.stanford.edu/tutorial/>
