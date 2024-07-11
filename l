@@ -1,8 +1,3 @@
-## cambridge-ceu.github.io
-
-Source at Mermaid live editor, <https://tinyurl.com/32k5x6fx>
-
-```
 graph TD;
 cambridge_ceu["cambridge-ceu"] --> internals[<a href="https://cambridge-ceu.github.io/internal/" style="font-size: 25px;font-size:90%">Internal repositories</a>]
 cambridge_ceu --> externals[<a href="https://cambridge-ceu.github.io/public/" style="font-size: 25px;font-size:90%">Public repositories</a>]
@@ -17,6 +12,3 @@ cambridge_ceu --> blog[<a href="https://cambridge-ceu.github.io/blog/" style="fo
 cambridge_ceu --> github[<a href="https://github.com/cambridge-ceu/" style="font-size: 25px;font-size:90%">GitHub</a>]
 cambridge_ceu --> search[<a href="https://cambridge-ceu.github.io/search/" style="font-size: 25px;font-size:90%">Search</a>]
 cambridge_ceu --> contact[<a href="https://cambridge-ceu.github.io/contact/" style="font-size: 25px;font-size:90%">Contact</a>]
-```
-
-This uses an alternative theme at cambridge-ceu.
