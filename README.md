@@ -1,13 +1,12 @@
 ## cambridge-ceu.github.io
 
-Source at Mermaid live editor, <https://tinyurl.com/32k5x6fx>
+Source at Mermaid live editor, <https://tinyurl.com/58aaeymr>
 
 ```
 graph TD;
 cambridge_ceu["cambridge-ceu"] --> internals[<a href="https://cambridge-ceu.github.io/internal/" style="font-size: 25px;font-size:90%">Internal repositories</a>]
 cambridge_ceu --> externals[<a href="https://cambridge-ceu.github.io/public/" style="font-size: 25px;font-size:90%">Public repositories</a>]
 cambridge_ceu --> blog[<a href="https://cambridge-ceu.github.io/blog/" style="font-size: 25px;font-size:90%">Blog posts</a>]
-cambridge_ceu --> GitHub[<a href="https://github.com/cambridge-ceu/" style="font-size: 25px;font-size:90%">GitHub</a>]
 internals --> journal_club[<a href="https://cambridge-ceu.github.io/CEU-journal-club/" style="font-size: 25px;font-size:90%">CEU-journal-club</a>]
 internals --> scientific_meetings[<a href="https://cambridge-ceu.github.io/CEU-scientific-meetings/" style="font-size: 25px;font-size:90%">CEU-scientific-meetings</a>]
 internals --> journal_dot["..."]
