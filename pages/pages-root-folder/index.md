@@ -48,6 +48,7 @@ header:
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/curtsy-alice-alice-in-wonderland-disney.gif)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/qrcode-50.svg){:height="120px" width="120px"}
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
