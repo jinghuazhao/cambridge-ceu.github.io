@@ -9,14 +9,15 @@ header:
 ---
 
 ~~~
-: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/jinghuazhao/Caprion) Caprion, <https://jinghuazhao.github.io/Caprion/>
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/jinghuazhao/Caprion), Caprion, <https://jinghuazhao.github.io/Caprion/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/cardiogramplusC4D_GWAS) cardiogram C4D GWAS
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/cardiometabolic_prs_plasma_proteome) cardiometabolic_prs_plasma_proteome
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/EWAS-fusion) EWAS-fusion, <https://cambridge-ceu.github.io/EWAS-fusion/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/gassocplot2) gassocplot2
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/HDTian/DRMR) DRMR ([SUMnlmr](https://github.com/amymariemason/SUMnlmr))
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/GreenAlgorithms4HPC) GreenAlgorithms4HPC, <https://www.green-algorithms.org/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/INTERVAL-RNAseq) INTERVAL RNA-seq Portal, <https://IntervalRNA.org.uk>
-: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/METAL) METAL, <https://cambridge-ceu.github.io/METAL/>
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/METAL) METAL <https://cambridge-ceu.github.io/METAL/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/MRC-Epid/MetabolomicsGWAS_INTERVAL_EPICNorfolk) MetabolomicsGWAS_INTERVAL_EPICNorfolk
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/miamiPlot) miamiPlot
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/rkabacoff/datavis_support) Modern Data Visualization in R, <https://rkabacoff.github.io/datavis/index.html>
@@ -29,5 +30,6 @@ header:
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/jinghuazhao/INF) SCALLOP-INF, <https://jinghuazhao.github.io/INF/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/Sun-et-al-2021-protein-coding-variants-in-human-disease) Sun-et-al-2021-protein-coding-variants-in-human-disease
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/StatProofBook) The Book of Statistical Proofs, <https://statproofbook.github.io/>
-: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/TwoSampleMR) TwoSampleMR, <https://mrcieu.github.io/TwoSampleMR/>
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/TwoSampleMR) TwoSampleMR, <https://cambridge-ceu.github.io/TwoSampleMR/>
 : [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/amaas/stanford_dl_ex) UFLDL Tutorial, <http://ufldl.stanford.edu/tutorial/>
+: [![]({{ site.url }}{{ site.baseurl }}/assets/images/github.svg)](https://github.com/cambridge-ceu/Ultimate-Neural-Network-Programming-with-Python) Ultimate Neural Network Programming with Python <https://orangeava.com/products/ultimate-neural-network-programming-with-python>
